@@ -41,7 +41,3 @@ El programa ofrece un menú mediante consola desde el cual es posible:
 - `GestionInversiones`: Lógica de operaciones e interacción con la cartera.  
 - `Precio`: Obtención de precios simulados para activos.
 
-## Ejecución
-
-Compilar:
-
